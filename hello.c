@@ -2,6 +2,6 @@
 int main()
 {
     printf("Welcome to Github Actions.\n********* Its Working*******\n");
-    printf("\nHffffurry");
+    printf("\nHurry");
     return 0;
 }
